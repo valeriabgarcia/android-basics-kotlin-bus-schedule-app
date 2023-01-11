@@ -1,6 +1,6 @@
 # Bus Scheduler App
 
-https://developer.android.com/courses/android-basics-kotlin/unit-5
+https://developer.android.com/courses/pathways/android-basics-kotlin-unit-5-pathway-1
 
 The Bus Scheduler app displays a list of bus stops and arrival times. Tapping a bus stop on the first screen will display a list of all arrival times for that particular stop.
 
